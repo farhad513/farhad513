@@ -2,7 +2,7 @@
 
 # 💫 Md Farhad Hossain
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=🚀+Full+Stack+MERN+Developer;🔥+React+%7C+React+Native+Developer;⚡+Building+Production+Level+Applications;💻+Node.js+%7C+Express.js+%7C+MongoDB;📱+Modern+Web+%26+Mobile+App+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=🚀+Full+Stack+MERN+Developer;🔥+React+%7C+React+Native+Developer;⚡+Building+Production+Level+Applications;💻+Node.js+%7C+Express.js+%7C+MongoDB;📱+Modern+Web+%26+Mobile+App+Developer;🌍+Passionate+Software+Engineer+From+Bangladesh" />
 
 <br/>
 
@@ -18,24 +18,27 @@
 
 # 🚀 About Me
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" alt="coding" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 🔥 Passionate Full Stack MERN Developer from Bangladesh.
 
-💻 I love building:
-- Modern Web Applications
-- Production Level Backend APIs
-- React Native Mobile Apps
-- Hospital Management Systems
+💻 I love building modern, scalable and production-level applications with beautiful UI and optimized backend systems.
 
-🌱 Currently Learning:
-- Advanced MERN Stack
-- Backend Optimization
-- Mobile App Development
-- Clean UI/UX Design
+⚡ Specialized in:
+- MERN Stack Development
+- React Native Apps
+- REST APIs
+- Backend Architecture
+- Mobile App UI/UX
 
-⚡ Fun Fact:
-> I enjoy turning ideas into real-world applications.
+🌱 Currently focusing on:
+- Scalable Backend Systems
+- High Performance Applications
+- Advanced React Native Development
+- Production Ready Deployments
+
+💡 Fun Fact:
+> "I love turning real-world problems into powerful digital solutions."
 
 ---
 
@@ -109,16 +112,106 @@ const farhad = {
   },
 
   currentFocus:
-    "Building Production Level MERN Applications",
+    "Building Production Level Full Stack Applications",
 
   funFact:
-    "Code + Creativity = Powerful Applications"
+    "Code + Creativity = Powerful Digital Products"
 };
 ```
 
 ---
 
-# 📊 GitHub Stats
+# 🚀 Featured Projects
+
+# 🏥 MediFast HealthCare
+
+🌐 Website:  
+https://www.medifasthealthcare.com
+
+📱 React Native Mobile App Available
+
+### Features:
+- Doctor Appointment System
+- Ambulance Booking
+- Medicine Service
+- Blood Donation Service
+- Hospital Management
+- Multi Vendor Healthcare Platform
+- Admin Dashboard
+- User Authentication
+- Online Healthcare Services
+
+### Tech Stack:
+`React` `React Native` `Node.js` `Express.js` `MongoDB` `Redux Toolkit`
+
+---
+
+# 🍔 FoodBite24
+
+🌐 User Website:  
+https://foodbite24.com
+
+🏪 Partner Dashboard:  
+https://partner.foodbite24.com
+
+🚴 Delivery Rider Panel:  
+https://rider.foodbite24.com
+
+### Project Status:
+⚡ Currently Running & Under Continuous Development
+
+### Features:
+- Multi Vendor Food Ordering
+- Grocery E-Commerce
+- Restaurant Management
+- Partner Dashboard
+- Rider Delivery System
+- Real Time Order Tracking
+- Payment Integration
+- Admin Management
+
+### Tech Stack:
+`React` `Node.js` `MongoDB` `Express.js` `Redux`
+
+---
+
+# 🎉 AmraPgiyan
+
+🌐 Website:  
+https://amrapgiyan.com
+
+### Purpose:
+Event & Program Registration Platform.
+
+### Features:
+- Online Registration System
+- User Data Collection
+- Responsive UI
+- Secure Form Submission
+
+### Tech Stack:
+`React` `Node.js` `MongoDB`
+
+---
+
+# 📱 MediFast HealthCare Mobile App
+
+🚀 Cross Platform React Native Mobile Application.
+
+### Available Features:
+- Doctor Appointment Booking
+- Ambulance Booking
+- Medicine Ordering
+- Blood Service
+- Hospital Search
+- Modern Mobile UI
+
+### Tech Stack:
+`React Native` `Redux Toolkit` `Firebase`
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -150,7 +243,7 @@ const farhad = {
 
 ---
 
-# ⚡ Activity Graph
+# ⚡ Contribution Graph
 
 <div align="center">
 
@@ -160,30 +253,19 @@ const farhad = {
 
 ---
 
-# 🚀 Featured Projects
+# 🔥 Developer Quote
 
-## 🏥 MediFast Healthcare
-Production Level Hospital Management System with:
-- Doctor Appointment
-- Ambulance Booking
-- Medicine Store
-- Admin Dashboard
+<div align="center">
 
----
+### 💭 "First, solve the problem. Then, write the code."
 
-## 📱 React Native Apps
-Modern Mobile Applications with clean UI and smooth performance.
-
----
-
-## 🌐 Full Stack MERN Applications
-Scalable Backend + Beautiful Frontend Interfaces.
+</div>
 
 ---
 
 <div align="center">
 
-# 🔥 Code • Build • Learn • Repeat
+# 🚀 Code • Build • Innovate • Repeat
 
 ### ⭐ Thanks For Visiting My Profile ⭐
 
