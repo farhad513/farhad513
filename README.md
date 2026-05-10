@@ -106,7 +106,6 @@ const farhad = {
     "JavaScript",
     "HTML",
     "CSS",
-    "Dart"
   ],
 
   technologies: {
@@ -129,7 +128,6 @@ const farhad = {
 
     mobileApp: [
       "React Native",
-      "Flutter"
     ],
 
     aiTools: [
@@ -243,17 +241,6 @@ Event & Program Registration Platform.
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=farhad513&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=farhad513&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
-
----
 
 # 📈 Most Used Languages
 
