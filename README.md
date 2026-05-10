@@ -2,7 +2,7 @@
 
 # 💫 Md Farhad Hossain
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=🚀+Full+Stack+MERN+Developer;🔥+React+%7C+React+Native+Developer;⚡+Building+Production+Level+Applications;💻+Node.js+%7C+Express.js+%7C+MongoDB;📱+Modern+Web+%26+Mobile+App+Developer;🌍+Passionate+Software+Engineer+From+Bangladesh" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=🚀+Full+Stack+MERN+Developer;🔥+React+%7C+React+Native+Developer;⚡+Building+Production+Level+Applications;💻+Node.js+%7C+Express.js+%7C+MongoDB;🤖+Exploring+AI+Integration;📱+Modern+Web+%26+Mobile+App+Developer;🌍+Software+Engineer+From+Bangladesh" />
 
 <br/>
 
@@ -31,11 +31,13 @@
 - Backend Architecture
 - Mobile App UI/UX
 
-🌱 Currently focusing on:
-- Scalable Backend Systems
-- High Performance Applications
+🌱 Currently Learning & Exploring:
+- AI Integration in Web Applications
+- OpenAI API
+- Smart Healthcare Features
+- Automation Systems
 - Advanced React Native Development
-- Production Ready Deployments
+- Production Ready Backend Systems
 
 💡 Fun Fact:
 > "I love turning real-world problems into powerful digital solutions."
@@ -70,9 +72,29 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,redux,tailwind,nodejs,express,mongodb,firebase,flutter,dart,git,github,vscode,postman,linux,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,redux,tailwind,nodejs,express,mongodb,firebase,flutter,dart,python,git,github,vscode,postman,linux,figma" />
 
 </div>
+
+---
+
+# 🤖 Exploring AI
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AI_Integration-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge&logo=googleassistant&logoColor=white"/>
+
+</div>
+
+- OpenAI API Integration
+- AI Chat Systems
+- Smart Automation Features
+- AI Powered Healthcare Solutions
+- Intelligent User Experience
 
 ---
 
@@ -108,14 +130,24 @@ const farhad = {
     mobileApp: [
       "React Native",
       "Flutter"
+    ],
+
+    aiTools: [
+      "OpenAI API",
+      "AI Integration",
+      "Automation"
     ]
   },
 
-  currentFocus:
-    "Building Production Level Full Stack Applications",
+  currentFocus: [
+    "Full Stack MERN Development",
+    "React Native Apps",
+    "AI Integration",
+    "Scalable Backend Systems"
+  ],
 
   funFact:
-    "Code + Creativity = Powerful Digital Products"
+    "Code + Creativity + AI = Powerful Digital Products"
 };
 ```
 
