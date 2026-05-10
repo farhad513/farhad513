@@ -1,96 +1,112 @@
-<h1 align="center">Hi 👋, I'm Md Farhad Hossain</h1>
-<h3 align="center">🚀 Full Stack MERN Developer from Bangladesh</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;React+%7C+React+Native+%7C+Node.js;Building+Production+Level+Applications;Hospital+Management+System+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
-</p>
+# 💫 Md Farhad Hossain
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=1000&lines=🚀+Full+Stack+MERN+Developer;⚡+React+%7C+React+Native+Developer;🔥+Building+Production+Level+Applications;💻+Node.js+%7C+Express.js+%7C+MongoDB;📱+Cross+Platform+Mobile+App+Developer;🌍+Passionate+Software+Engineer+From+Bangladesh" />
 
----
+<br/>
 
-# 💫 About Me
+<img src="https://komarev.com/ghpvc/?username=farhad513&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
 
-- 🔭 Currently working on **Production Level MERN Stack Projects**
-- 🌱 Learning **Advanced Backend Architecture & Mobile App Development**
-- 👨‍💻 Building **Hospital Management Systems & Modern Web Applications**
-- 💬 Ask me about **React, React Native, Node.js, Express.js, MongoDB**
-- ⚡ Love creating **Clean UI & Scalable Backend Systems**
-- 🎯 Goal: Become a **Top Software Engineer**
+<img src="https://img.shields.io/github/followers/farhad513?logo=github&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/stars/farhad513?logo=github&style=for-the-badge" />
+
+</div>
 
 ---
 
-# 🌐 Portfolio & Contact
+# 🧑‍💻 About Me
 
-<p align="center">
-<a href="https://github.com/farhad513" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+🚀 Passionate Full Stack MERN Developer from Bangladesh.
+
+💡 I love building scalable web & mobile applications with modern technologies.
+
+🔥 Currently working on:
+- Production Level MERN Stack Applications
+- Hospital Management Systems
+- React Native Mobile Apps
+- Backend APIs & Authentication Systems
+
+🌱 Currently Learning:
+- Advanced System Design
+- Microservices Architecture
+- DevOps & Cloud Deployment
+- Next.js & TypeScript
+
+⚡ Fun Fact:
+> I love turning ideas into real-world applications.
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/farhad513">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
-<a href="https://linkedin.com/in/farhad513" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/farhad513">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
-<a href="https://facebook.com/farhad250" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<a href="https://facebook.com/farhad250">
+<img src="https://skillicons.dev/icons?i=facebook" height="50"/>
 </a>
 
-<a href="https://instagram.com/mdfarhad78" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://instagram.com/mdfarhad78">
+<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
 </a>
 
 <a href="mailto:md.farhad0401@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
-</p>
+
+</div>
 
 ---
 
 # 🚀 Tech Stack
 
-## 💻 Frontend Development
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css,javascript,typescript" />
+## 🎨 Frontend Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,redux,tailwind,bootstrap,sass,vite" />
 </p>
+
+---
 
 ## ⚙️ Backend Development
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,redis,graphql" />
 </p>
+
+---
 
 ## 📱 Mobile App Development
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,flutter,dart" />
 </p>
+
+---
+
+## ☁️ Cloud & Deployment
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vercel,netlify,render,heroku,aws,docker" />
+</p>
+
+---
 
 ## 🛠 Tools & Technologies
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,figma" />
-</p>
-
----
-
-# 📊 GitHub Analytics
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,figma,photoshop,npm,yarn,pnpm" />
 </p>
 
 ---
@@ -99,12 +115,73 @@
 
 ```javascript
 const farhad = {
-  code: ["JavaScript", "TypeScript", "Dart"],
+  pronouns: "He | Him",
+  
+  code: [
+    "JavaScript",
+    "TypeScript",
+    "Dart",
+    "HTML",
+    "CSS"
+  ],
+
+  askMeAbout: [
+    "React",
+    "React Native",
+    "Node.js",
+    "MongoDB",
+    "Express.js",
+    "REST APIs",
+    "Firebase",
+    "Redux Toolkit"
+  ],
+
   technologies: {
-    frontend: ["React", "Next.js", "Redux", "Tailwind CSS"],
-    backend: ["Node.js", "Express.js"],
-    database: ["MongoDB", "Firebase"],
-    mobileApp: ["React Native", "Flutter"],
+    frontend: {
+      js: [
+        "React",
+        "Next.js",
+        "Redux",
+        "Tailwind CSS"
+      ]
+    },
+
+    backend: {
+      js: [
+        "Node.js",
+        "Express.js"
+      ]
+    },
+
+    databases: [
+      "MongoDB",
+      "Firebase",
+      "Redis"
+    ],
+
+    mobileApp: [
+      "React Native",
+      "Flutter"
+    ],
+
+    devOps: [
+      "Docker",
+      "AWS",
+      "Vercel",
+      "Netlify"
+    ],
+
+    tools: [
+      "Git",
+      "GitHub",
+      "Postman",
+      "Figma"
+    ]
   },
-  currentFocus: "Building Scalable Full Stack Applications",
+
+  currentFocus:
+    "Building Production Level Full Stack Applications",
+
+  funFact:
+    "First solve the problem, then write the code."
 };
